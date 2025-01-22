@@ -1,0 +1,4 @@
+source setup_env.sh
+
+conda activate py312_speaker_labels
+python speaker_labels_from_diarization.py
